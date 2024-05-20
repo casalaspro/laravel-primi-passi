@@ -6,6 +6,7 @@
   <title>Primi Passi Larvel</title>
 </head>
 <body>
+
   <header>
     <nav>
       <div class="logo">Laravel Primi Passi</div>
@@ -17,9 +18,10 @@
       </ul>
     </nav>
   </header>
-  
 
-  <h1>Hello World</h1>
+  <h1>Blog</h1>
+
+  
   
 </body>
 </html>
